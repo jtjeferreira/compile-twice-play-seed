@@ -1,6 +1,6 @@
 # compile-twice-play-seed
 
-Reproducer for an issue with play framework compile source code twice
+Reproducer for an issue with play framework compile source code twice https://github.com/playframework/playframework/issues/10373
 
 ## Reproduce
 
